@@ -1,5 +1,5 @@
 spring:
   application:
-    name: umufrota
+    name: frota
   profiles:
     active: test

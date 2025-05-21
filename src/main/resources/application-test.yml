@@ -1,8 +1,6 @@
 spring:
-  application:
-    name: umufrota
   datasource:
-    url: jdbc:h2:mem:umufrota
+    url: jdbc:h2:mem:frota
     driver-class-name: org.h2.Driver
     username: admin
     password:
