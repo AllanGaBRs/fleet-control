@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: umufrota
+  profiles:
+    active: test
